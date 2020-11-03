@@ -1,8 +1,11 @@
 # Mac OS
-.DS_Store
+**/.DS_Store
 
 # Java compiled files
 *.class
 
 # IDE settings
 .idea
+
+# Environment variables
+**/.env
